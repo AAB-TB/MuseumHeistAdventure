@@ -1,0 +1,14 @@
+D:\Visual Studio c#\Museum Heist Adventure\bin\Debug\net7.0\Museum Heist Adventure.exe
+D:\Visual Studio c#\Museum Heist Adventure\bin\Debug\net7.0\Museum Heist Adventure.deps.json
+D:\Visual Studio c#\Museum Heist Adventure\bin\Debug\net7.0\Museum Heist Adventure.runtimeconfig.json
+D:\Visual Studio c#\Museum Heist Adventure\bin\Debug\net7.0\Museum Heist Adventure.dll
+D:\Visual Studio c#\Museum Heist Adventure\bin\Debug\net7.0\Museum Heist Adventure.pdb
+D:\Visual Studio c#\Museum Heist Adventure\obj\Debug\net7.0\Museum Heist Adventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio c#\Museum Heist Adventure\obj\Debug\net7.0\Museum Heist Adventure.AssemblyInfoInputs.cache
+D:\Visual Studio c#\Museum Heist Adventure\obj\Debug\net7.0\Museum Heist Adventure.AssemblyInfo.cs
+D:\Visual Studio c#\Museum Heist Adventure\obj\Debug\net7.0\Museum Heist Adventure.csproj.CoreCompileInputs.cache
+D:\Visual Studio c#\Museum Heist Adventure\obj\Debug\net7.0\Museum Heist Adventure.dll
+D:\Visual Studio c#\Museum Heist Adventure\obj\Debug\net7.0\refint\Museum Heist Adventure.dll
+D:\Visual Studio c#\Museum Heist Adventure\obj\Debug\net7.0\Museum Heist Adventure.pdb
+D:\Visual Studio c#\Museum Heist Adventure\obj\Debug\net7.0\Museum Heist Adventure.genruntimeconfig.cache
+D:\Visual Studio c#\Museum Heist Adventure\obj\Debug\net7.0\ref\Museum Heist Adventure.dll
